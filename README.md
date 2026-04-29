@@ -7,7 +7,9 @@ specificity on a held-out validation set, with the dataset split into 70% traini
 and 15% test.
 
 **Final_Project.ipynb** contains the entire codes for exploratory and unsupervised analysis and supervised modelling
+
 **Final Project Report.pdf** is the written report for this project.
+
 **Final Project.pdf** is the instruction of this project assignment.
 
 **Dataset**: baig, Talha (2025), “Asian and Non-Asian People Datasets for Classification of Facial images”,
