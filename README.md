@@ -6,7 +6,7 @@ regularization settings. Model performance is evaluated using accuracy, precisio
 specificity on a held-out validation set, with the dataset split into 70% training, 15% validation,
 and 15% test.
 
-**Final_Project.ipynb** contains the entire codes for exploratory and unsupervised analysis and supervised modelling
+**Final_Project.ipynb** contains the entire codes for exploratory and unsupervised analysis and supervised modelling.
 
 **Final Project Report.pdf** is the written report for this project.
 
